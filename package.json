@@ -8,7 +8,7 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "predeploy”:”npm run build",//npm run deploy 時會自動先跑 predeploy
+    "predeploy":"npm run build",
     "deploy": "gh-pages -d dist"
   },
   "dependencies": {
