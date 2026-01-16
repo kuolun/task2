@@ -1,3 +1,9 @@
+## Deploy
+npm run deploy 會：
+1. 執行 vite build
+2. 將 dist 推送到 gh-pages
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
